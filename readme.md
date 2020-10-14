@@ -1,5 +1,5 @@
 <p align="center" >
-  <img src="./src/images/logo-readme.svg" alt="Interface's gif" width="200" />
+  <img src="https://github.com/geovanicv/happy-web/blob/staging/src/images/logo-readme.svg" alt="Logotipo Happy" width="200" />
 </p>
 
 <br />
